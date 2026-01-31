@@ -14,7 +14,7 @@ Copyright (c) 2026 Metaspook.
             <!-- Following text will be shown under 'Release Notes' title in dialog -->
             <!-- <description>Minor updates and improvements.</description> -->
             <pubDate>Sat, 31 Jan 2026 11:00:35 +0000</pubDate>
-            <enclosure url="https://pai2pai.com/downloads/pai2pai_v0.3.24_setup.exe" sparkle:version="0.3.24" sparkle:os="windows" />
+            <enclosure url="https://pai2pai.github.io/downloads/pai2pai_v0.3.24_setup.exe" sparkle:version="0.3.24" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
