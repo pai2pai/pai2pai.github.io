@@ -2,7 +2,7 @@
 <!-- 
 Flutter Windows app updater XML script.
 Author : Metaspook <metaspoo@gmail.com> 2025-11-11
-Updated: at 2026-02-17 by Metaspook
+Updated: at 2026-02-18 by Metaspook
 License: <http://opensource.org/licenses/MIT>
 Copyright (c) 2026 Metaspook.
 -->
@@ -10,11 +10,11 @@ Copyright (c) 2026 Metaspook.
     <channel>
         <title>Pai2Pai Windows Updates</title>
         <item>
-            <title>Version 0.3.34</title>
+            <title>Version 0.3.35</title>
             <!-- Following text will be shown under 'Release Notes' title in dialog -->
             <!-- <description>Minor updates and improvements.</description> -->
-            <pubDate>Tue, 17 Feb 2026 06:25:29 +0000</pubDate>
-            <enclosure url="https://pai2pai.github.io/downloads/pai2pai_v0.3.34_setup.exe" sparkle:version="0.3.34" sparkle:os="windows" />
+            <pubDate>Wed, 18 Feb 2026 11:11:09 +0000</pubDate>
+            <enclosure url="https://pai2pai.github.io/downloads/pai2pai_v0.3.35_setup.exe" sparkle:version="0.3.35" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
