@@ -10,11 +10,11 @@ Copyright (c) 2026 Metaspook.
     <channel>
         <title>Pai2Pai Windows Updates</title>
         <item>
-            <title>Version 0.5.5</title>
+            <title>Version 0.5.3</title>
             <!-- Following text will be shown under 'Release Notes' title in dialog -->
             <!-- <description>Minor updates and improvements.</description> -->
             <pubDate>Mon, 20 Jul 2026 09:57:23 +0000</pubDate>
-            <enclosure url="https://pai2pai.github.io/downloads/pai2pai_v0.5.5_setup.exe" sparkle:version="0.5.5" sparkle:os="windows" />
+            <enclosure url="https://pai2pai.github.io/downloads/pai2pai_v0.5.3_setup.exe" sparkle:version="0.5.3" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
